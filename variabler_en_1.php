@@ -60,7 +60,7 @@ $slider_link2 = "";
 
 	#Fordeler
 
-$f_title = "Quality Minecraft Hosting";
+$f_title = "KUKHOST";
 $f_01 = "Distribute your Minecraft Server with us and notice the difference.";
 $f_02 = "High quality";
 $f_03 = "We operate p & aring; high quality and full-performance performance, with extended DDoS protection to ensure that our nodes are always online.";
