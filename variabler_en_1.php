@@ -11,7 +11,7 @@ $meta_tags = "mcvert, minecraft, hosting, mc, host, vert, spill, gaming, server,
 
 	#Meny
 
-$meny_tekst_1 = "Productdwdadwdas";
+$meny_tekst_1 = "Products";
 $meny_link_1 = "#";
 $meny_tekst_2 = "Minecraft Hosting";
 $meny_link_2 = "https://mcvert.net/portal/cart.php?gid=1";
@@ -37,7 +37,7 @@ $meny_tekst_12 = "Discord";
 $meny_link_12 = "https://discord.gg/V7Wgy9U";
 $meny_tekst_13 = "Customer Portal";
 $meny_link_13 = "https://mcvert.net/portal";
-$meny_tekst_14 = "Support";
+$meny_tekst_14 = "Hore";
 $meny_link_14 = "https://mcvert.net/portal/submitticket.php";
 $meny_tekst_15 = "Knowledgebase";
 $meny_link_15 = "https://mcvert.net/portal/index.php?rp=/knowledgebase";
